@@ -77,7 +77,7 @@ for x in range(8):
     m=r(1, 4)
     if m==1:
         med+=1
-        print('+оптечка')
+        print('+medkit')
     else:
         pass
 
